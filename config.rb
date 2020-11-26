@@ -1,0 +1,12 @@
+OUTPUT = 0
+INPUT = 1
+
+LOW = 0
+HIGH = 1
+
+LED1 = 0
+LED2 = 1
+LED3 = 5
+LED4 = 6
+
+SW = 12
