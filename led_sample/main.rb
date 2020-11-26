@@ -1,3 +1,5 @@
+# 2つのLEDが交互に点滅する
+
 pinMode(LED1, OUTPUT)
 pinMode(LED3, OUTPUT)
 while true
