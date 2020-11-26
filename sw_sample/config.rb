@@ -8,5 +8,12 @@ LED1 = 0
 LED2 = 1
 LED3 = 5
 LED4 = 6
+LEDs = [LED1,LED2,LED3,LED4]
 
 SW = 12
+
+pinMode(LED1, OUTPUT)
+pinMode(LED2, OUTPUT)
+pinMode(LED3, OUTPUT)
+pinMode(LED4, OUTPUT)
+pinMode(SW, INPUT)
