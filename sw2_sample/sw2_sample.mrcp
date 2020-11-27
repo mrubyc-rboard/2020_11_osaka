@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<mrcp name="sw_sample">
+<mrcp name="sw2_sample">
   <version>1.0</version>
-  <timestamp>2020-11-27T23:22:59</timestamp>
+  <timestamp>2020-11-27T23:31:02</timestamp>
   <files>
     <file name="config.rb">
       <type>2</type>
