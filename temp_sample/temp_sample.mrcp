@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<mrcp name="led_pin">
+<mrcp name="temp_sample">
   <version>1.0</version>
-  <timestamp>2020-11-28T00:37:34</timestamp>
+  <timestamp>2020-11-28T01:35:37</timestamp>
   <files>
     <file name="config.rb">
       <type>2</type>

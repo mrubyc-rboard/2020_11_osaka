@@ -35,3 +35,7 @@ PINs = [PIN0,PIN1,PIN2,PIN3,PIN4,PIN5,PIN6,PIN7]
 PINs.each do |pin|
   pinMode(pin, OUTPUT)
 end
+
+ADC0 = 6
+ADC1 = 7
+
