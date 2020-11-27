@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<mrcp name="state_sample">
+<mrcp name="led_pin">
   <version>1.0</version>
-  <timestamp>2020-11-27T23:37:17</timestamp>
+  <timestamp>2020-11-27T23:59:47</timestamp>
   <files>
     <file name="config.rb">
       <type>2</type>
@@ -9,11 +9,6 @@
       <mark/>
     </file>
     <file name="main.rb">
-      <type>2</type>
-      <editing>true</editing>
-      <mark/>
-    </file>
-    <file name="state.rb">
       <type>2</type>
       <editing>true</editing>
       <mark/>
